@@ -15,10 +15,8 @@ Hi! My name is Earl Gerald Mendoza 😄
   <a href="https://www.linkedin.com/in/itsjhaydev/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-</div>
-
-<div id="badges">
   <a href="https://www.facebook.com/ItsJhayM">
     <img src="https://img.shields.io/badge/facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
 </div>
+
