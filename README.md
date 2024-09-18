@@ -19,6 +19,6 @@ Hi! My name is Earl Gerald Mendoza 😄
 
 <div id="badges">
   <a href="https://www.facebook.com/ItsJhayM">
-    <img src="https://theplusaddons.com/wp-content/plugins/theplus_elementor_addon/assets/images/social-review/facebook.svg" alt="Facebook Badge"/>
+    <img src="https://img.shields.io/badge/facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
 </div>
